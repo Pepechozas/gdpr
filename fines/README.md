@@ -95,10 +95,18 @@ There will inevitably be a need to add new content as new decisions are announce
 
 ## Some faulty items below. Feel free to correct/amend to eventually move above.
 
-* for example in case of Spain no precise dates are known (not announced in the DPA decisions), the month is provisional (see https://github.com/lknik/gdpr/pull/6)
+* for example in case of Spain no precise dates are known until the 2019-08-12 fine (not announced in the DPA decisions), the month is provisional (see https://github.com/lknik/gdpr/pull/6)
 
 | Country        | Data           | Fine (EUR) |  Recipient   | Articles | Description | Reference |
 | -------------- |:--------------:| :---------:|-------------:| :-------:|:-------:|:-------:|
+
+| SPAIN | 2019-08-28 | 36,000 | VODAFONE ONO, S.A.U. | Art. 32 GDPR |  | [link](https://www.aepd.es/resoluciones/PS-00212-2019_ORI.pdf) |
+| SPAIN | 2019-08-19 | 9,600 | SANTI 3000, S.L. (RESTAURANTE LA
+OLIVA) | Art. 5 (1) a) GDPR |  | [link](https://www.aepd.es/resoluciones/PS-00401-2018_ORI.pdf) |
+| SPAIN | 2019-08-12 | 36,000 | TELEFONICA MOVILES ESPAÑA, S.A.U. | Art. 5 (1) GDPR |  | [link](https://www.aepd.es/resoluciones/PS-00173-2019_ORI.pdf) |
+| SPAIN | 2019-08-XX | 20,000 | PRIVATE PERSON | Art. 5 (1) c) GDPR |  | [link](https://www.aepd.es/resoluciones/PS-00150-2019_ORI.pdf) |
+| SPAIN | 2019-08-XX | 65,000 | XFERA MÓVILES, S.A. (YOIGO) | Art. 5 GDPR |  | [link](https://www.aepd.es/resoluciones/PS-00094-2019_ORI.pdf) |
+| SPAIN | 2019-08-XX | 9,000 | PRIVATE PERSON | Art. 5 (1) c) GDPR |  | [link](https://www.aepd.es/resoluciones/PS-00050-2019_ORI.pdf) |
 | SPAIN | 2019-08-XX | 60,000 | AVON COSMETICS, S.A.U. | Art. 6 GDPR |  | [link](https://www.aepd.es/resoluciones/PS-00159-2019_ORI.pdf) |
 | SPAIN | 2019-08-XX | 30,000 | VODAFONE ESPANA, S.A.U. | Art. 5 (1) f) GDPR |  | [link](https://www.aepd.es/resoluciones/PS-00205-2019_ORI.pdf) |
 | SPAIN | 2019-07-XX | 22,800 | BANCO BILBAO VIZCAYA ARGENTARIA, S.A. (BBVA) | Art. 6 (1) GDPR |  | [link](https://www.aepd.es/resoluciones/PS-00147-2019_ORI.pdf) |
